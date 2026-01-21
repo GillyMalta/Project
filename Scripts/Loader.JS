@@ -1,5 +1,5 @@
 import "./Scripts/Navigation.JS";
-import "./Scripts/Sidemenu.JS";
+import "./Sidemenu.JS";
 import "./Scripts/Time.JS";
 import "./Scripts/Header.JS";
 import "./Scripts/Slideshow.JS";
