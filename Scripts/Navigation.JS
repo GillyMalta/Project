@@ -1,7 +1,7 @@
 // disclaimer.js
 document.addEventListener("DOMContentLoaded", () => {
 //   fetch("../Sidemenu/Sidemenu.HTML")
-  fetch("./Pages/Navigation/Navigation.HTML")
+  fetch("../Pages/Navigation/Navigation.HTML")
     .then(response => response.text())
     .then(data => {
       document.getElementById("navigation").innerHTML = data;
