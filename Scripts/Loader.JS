@@ -10,4 +10,4 @@ import "./Scripts/Aboutme.JS";
 import "./Scripts/Form.JS";
 import "./Scripts/Socialmedia.JS";
 import "./Scripts/Disclaimer.JS";
-import "./Scripts/Copyright.JS"
+import "./Copyright.JS"
