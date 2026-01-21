@@ -157,7 +157,7 @@ hr {
     font-size: var(--std_Two_Rem);
     color: var(--std_Colour_Royalblue);
     transition:  ease var(--std_Time_Onesec);
-    background-image: url(/Assets/Images/fire1.jpg);
+    background-image: url(./Assets/Images/fire1.jpg);
     background-clip: text;
     color: transparent;
     animation: motion 30s linear infinite;
