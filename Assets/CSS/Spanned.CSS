@@ -21,7 +21,7 @@
 .card p {
     cursor: pointer;
     height: 47vh;
-    width: 12rem;
+    width: 27rem;
     flex: 1;
     overflow: hidden;
     border-radius: 0.5rem;
