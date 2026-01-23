@@ -318,7 +318,8 @@ dialog {
     width: fit-content;
     overflow: hidden;
     border: solid black 1px;
-    position: relative;
+    /* position: relative; */
+    position: fixed;
     text-align: center;
     background-color:#C2E2EE;
 }
